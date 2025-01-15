@@ -1,1 +1,1 @@
-Project devloped on Java, attached on subbracnh
+Project developed on Java, attached on subbranch
